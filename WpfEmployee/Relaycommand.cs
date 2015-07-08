@@ -1,6 +1,8 @@
 ﻿/*1.do not realize how to work here with  'event CanExecuteChanged'
  */
 
+
+/*test github*/
 using System;
 using System.Collections.Generic;
 using System.Diagnostics;
